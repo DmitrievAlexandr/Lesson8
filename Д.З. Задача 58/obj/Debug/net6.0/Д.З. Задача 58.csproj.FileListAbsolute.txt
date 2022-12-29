@@ -1,0 +1,15 @@
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\bin\Debug\net6.0\Д.З. Задача 58.exe
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\bin\Debug\net6.0\Д.З. Задача 58.deps.json
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\bin\Debug\net6.0\Д.З. Задача 58.runtimeconfig.json
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\bin\Debug\net6.0\Д.З. Задача 58.dll
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\bin\Debug\net6.0\Д.З. Задача 58.pdb
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.csproj.AssemblyReference.cache
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.AssemblyInfoInputs.cache
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.AssemblyInfo.cs
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.csproj.CoreCompileInputs.cache
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.dll
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\refint\Д.З. Задача 58.dll
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.pdb
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\Д.З. Задача 58.genruntimeconfig.cache
+C:\Моя Учёба\Програмирование\Lesson8\Д.З. Задача 58\obj\Debug\net6.0\ref\Д.З. Задача 58.dll
